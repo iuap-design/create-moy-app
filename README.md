@@ -5,7 +5,7 @@
 
 Create moy apps with no build configuration.
 
-[What is Moy?](https://github.com/iuap-design/tinper-moy)
+[What is Moy?](http://docs.tinper.org/moy/)
 
 ## Getting-started
 
@@ -15,6 +15,8 @@ Create moy apps with no build configuration.
 
 3. `$ npm start`
 
+4. More please see : [moy-templates](https://github.com/uba-templates/uba-boilerplate-manage-init)
+
 
 ## License
-MIT
+[MIT](https://github.com/iuap-design/create-moy-app/LICENSE)
