@@ -19,4 +19,4 @@ Create moy apps with no build configuration.
 
 
 ## License
-[MIT](https://github.com/iuap-design/create-moy-app/LICENSE)
+[MIT](https://github.com/iuap-design/create-moy-app/blob/master/LICENSE)
