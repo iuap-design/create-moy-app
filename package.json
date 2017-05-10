@@ -1,6 +1,6 @@
 {
   "name": "create-moy-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "create moy apps with no build configuration",
   "main": "index.js",
   "bin": {
